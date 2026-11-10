@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "chat-app-5b3c3",
+    "chatApp": "chat-app-5b3c3"
+  },
+  "targets": {},
+  "etags": {}
+}
